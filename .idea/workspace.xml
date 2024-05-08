@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a832388-2f1d-4ce1-b5b6-392664409619" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LightsWindowsPublisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TemperatureHumidityPublisher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/smartoffice/AppTest.java" afterDir="false" />
+    <list default="true" id="8a832388-2f1d-4ce1-b5b6-392664409619" name="Changes" comment="Codes for Question 4(a) for the Distributed Systems TABA">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LightsWindowsPublisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SyamilLightsWindowsPublisher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TemperatureHumidityPublisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SyamilTemperatureHumidityPublisher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +22,18 @@
       </list>
     </option>
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "daemonHunt2000"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/daemonHunt2000/TABA_Distributed_Systems_Muhammad_Syamil_x23104660.git",
+    "accountId": "6dc747f9-63dc-444e-8a2d-15cf4d743801"
+  }
+}]]></component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -37,6 +44,9 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.LightsWindowsPublisher.executor": "Run",
     "Application.SmartOfficeSubscriber.executor": "Run",
+    "Application.SyamilLightsWindowsPublisher.executor": "Run",
+    "Application.SyamilSmartOfficeSubscriber.executor": "Run",
+    "Application.SyamilTemperatureHumidityPublisher.executor": "Run",
     "Application.TemperatureHumidityPublisher.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -69,11 +79,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1715176599657</updated>
-      <workItem from="1715176600746" duration="2096000" />
+      <workItem from="1715176600746" duration="7440000" />
     </task>
+    <task id="LOCAL-00001" summary="Codes for Question 4(a) for the Distributed Systems TABA">
+      <option name="closed" value="true" />
+      <created>1715178793203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715178793204</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Codes for Question 4(a) for the Distributed Systems TABA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codes for Question 4(a) for the Distributed Systems TABA" />
   </component>
 </project>
